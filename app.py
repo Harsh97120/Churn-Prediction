@@ -7,7 +7,7 @@ model = joblib.load('models/best_model.joblib')
 column_transformer = joblib.load('models/column_transformer.joblib')
 label_encoder = joblib.load('models/label_encoder.joblib')
 
-st.set_page_config(page_title="Customer Churn Predictor", page_icon="📊")
+st.set_page_config(page_title="Customer Churn Predictor")
 st.title("Customer Churn Predictor")
 st.write("Enter customer details to predict the likelihood of churn.")
 

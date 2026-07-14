@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 📉 Customer Churn Predictor
+=======
+# Customer Churn Predictor
+>>>>>>> 2fcc000faec3c1f020fa7bbca0883bbed39f0c5e
 
 An interactive web application built with **Streamlit** that uses a Machine Learning model to predict the likelihood of customer churn. 
 
