@@ -1,7 +1,7 @@
 
 # Customer Churn Predictor
 
-An interactive web application built with **Streamlit** that uses a Machine Learning model to predict the likelihood of customer churn. 
+An interactive web application built with **Streamlit** that uses a **Machine Learning model** to predict the likelihood of customer churn. 
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://churn-prediction-harshn9712.streamlit.app/)
 
