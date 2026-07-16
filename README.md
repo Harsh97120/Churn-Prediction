@@ -6,6 +6,7 @@ An interactive web application built with **Streamlit** that uses a **Machine Le
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://churn-prediction-harshn9712.streamlit.app/)
 
 🔗 **Live URL:** [https://churn-prediction-harshn9712.streamlit.app/](https://churn-prediction-harshn9712.streamlit.app/)
+🔗 **Notebook:** [Link](https://colab.research.google.com/drive/1OFSc7FewVFUloBHSonetk-IBiy3zRWD2?usp=sharing)
 
 ---
 
